@@ -1,0 +1,3 @@
+ !"#$%&'()*+,-./0123456789:,<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¢£€¥
+[₹] is not avaliable at some monospace fonts
+
